@@ -24,11 +24,11 @@ void part1(int* vars) {
 }
 
 void part2(float vecs[4][2],int shiftValue) {
+  float temp[4][2];
  for(int i = 0; i < 4; i++) {
-  int foo = 666; //fixed data sharing problem with this
-#pragma omp parallel for private(foo)
+  temp = vecs
+#pragma omp parallel for 
   for(int j = 0; j < 2; j++) {
-   int foo = i;
    vecs[i][j] += shiftValue;
   }
  }
