@@ -10,7 +10,7 @@ using namespace std;
 
 typedef struct infoAboutNodes_s {
 char hostname[MPI_MAX_PROCESSOR_NAME];
-int core_count = 1;
+int core_count = 8;
 int rank;
 } infoAboutNodes;
 
