@@ -1,0 +1,12 @@
+(INFO) I am MPI[2 of 11]
+(INFO) I am MPI[0 of 11]
+(INFO) I am MPI[1 of 11]
+(INFO) I am MPI[3 of 11]
+(INFO) I am MPI[6 of 11]
+(INFO) I am MPI[4 of 11]
+(INFO) I am MPI[10 of 11]
+Received from: node7Sent to node 0 Created by: node7
+(INFO) I am MPI[5 of 11]
+(INFO) I am MPI[7 of 11]
+(INFO) I am MPI[8 of 11]
+(INFO) I am MPI[9 of 11]

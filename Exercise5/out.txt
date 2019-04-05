@@ -1,0 +1,7 @@
+Value 1 has been added from matrix entry |2||0|
+Value 0 has been added from matrix entry |0||1|
+Value 4 has been added from matrix entry |1||0|
+Value 0 has been added from matrix entry |1||1|
+Value 0 has been added from matrix entry |2||1|
+Value 5 has been added from matrix entry |0||0|
+Sum: 10

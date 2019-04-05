@@ -1,0 +1,10 @@
+Circle with radius 13 has area of 530.929138
+Circle with radius 2 has area of 12.566371
+Circle with radius 5 has area of 78.539818
+Circle with radius 8 has area of 201.061935
+Circle with radius 3 has area of 28.274334
+Circle with radius 21 has area of 1385.442383
+4 5
+7 9
+6 13
+8 25
