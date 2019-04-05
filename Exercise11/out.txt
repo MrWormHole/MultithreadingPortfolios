@@ -1,0 +1,11 @@
+I am node7, node of 0 of 11 and this is processor 0 of 8 and the result message is 83
+I am node12, node of 1 of 11 and this is processor 0 of 8 and the result message is 70
+I am node6, node of 2 of 11 and this is processor 0 of 8 and the result message is 95
+I am node10, node of 3 of 11 and this is processor 0 of 8 and the result message is 68
+I am node4, node of 4 of 11 and this is processor 0 of 8 and the result message is 75
+I am node2, node of 5 of 11 and this is processor 0 of 8 and the result message is 84
+I am node11, node of 6 of 11 and this is processor 0 of 8 and the result message is 62
+I am node8, node of 7 of 11 and this is processor 0 of 8 and the result message is 88
+I am node14, node of 8 of 11 and this is processor 0 of 8 and the result message is 82
+I am node15, node of 9 of 11 and this is processor 0 of 8 and the result message is 50
+I am node3, node of 10 of 11 and this is processor 0 of 8 and the result message is 95
