@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\toshiba\desktop\hw_windows\marscuriosityrover\main.cpp(221): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MarsCuriosityRover.vcxproj -> C:\Users\Toshiba\Desktop\HW_WINDOWS\Debug\MarsCuriosityRover.exe
+  MarsCuriosityRover.vcxproj -> C:\Users\Toshiba\Desktop\HW_WINDOWS\Debug\MarsCuriosityRover.pdb (Full PDB)

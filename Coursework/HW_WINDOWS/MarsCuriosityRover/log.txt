@@ -1,0 +1,21 @@
+---- Robot is moving ----
+!!! WHEEL 6 SENT A SIGNAL !!!
+Wheel 6 dropped due to a hole or a cliff
+The robot tries to do a brake
+Attempt has succeeded
+---- Robot is moving ----
+!!! WHEEL 5 SENT A SIGNAL !!!
+Wheel 5 lost track of how far it has travelled due to loose sand
+The robot tries to do a brake
+Attempt has failed
+The robot tries to do a brake
+Attempt has failed
+The robot tries to do a brake
+Attempt has failed
+Attempts by robot has failed, waiting for manual instructions by a human
+What should i do with this problem?
+1. Choose a new direction
+2. Lift the wheel
+3. Do the brake
+2The robot tries to lift a wheel
+Attempt has succeeded
